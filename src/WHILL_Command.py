@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 23 13:39:45 2018
 
-@author: Nguyen Thanh Tung
+@author: Luis Yoichi Morales with contribution of Nguyen Thanh Tung
 """
 import binascii
 
